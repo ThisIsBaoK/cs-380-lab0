@@ -1,4 +1,4 @@
-package Test;
+package packagetest;
 
 public class CS380_Test {
 
